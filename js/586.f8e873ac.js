@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksonak"]=self["webpackChunksonak"]||[]).push([[586],{3591:function(r,a,n){n.r(a),n.d(a,{default:function(){return f}});var t=n(6252);function e(r,a,n,e,o,c){const u=(0,t.up)("CharactorModal");return(0,t.wg)(),(0,t.j4)(u,{arrayNumber:2})}var o=n(6900),c=n(1765),u={data(){return{charactorContent:o.e}},components:{CharactorModal:c.Z}},s=n(3744);const d=(0,s.Z)(u,[["render",e]]);var f=d}}]);
+//# sourceMappingURL=586.f8e873ac.js.map
